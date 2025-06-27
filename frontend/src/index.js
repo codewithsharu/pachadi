@@ -33,7 +33,7 @@ import store from './store';
 import { Provider } from 'react-redux';
 import { PayPalScriptProvider } from '@paypal/react-paypal-js';
 
-const BACKEND_URL = 'https://propachadi.onrender.com/';
+
 
 const router = createBrowserRouter(
   createRoutesFromElements(

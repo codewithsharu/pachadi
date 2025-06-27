@@ -9,7 +9,7 @@ import { logout } from './slices/authSlice';
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
-const BACKEND_URL = 'https://propachadi.onrender.com/';
+
 
 const App = () => {
   const dispatch = useDispatch();

@@ -1,4 +1,4 @@
-const BACKEND_URL = 'https://propachadi.onrender.com/';
+
 
 export const addDecimals = (num) => {
   return (Math.round(num * 100) / 100).toFixed(2);
